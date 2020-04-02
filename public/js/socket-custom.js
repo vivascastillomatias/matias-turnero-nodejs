@@ -9,7 +9,7 @@ socket.on('disconnect', function() {
 })
 
 socket.on('enviarMensaje', function(data) {
-    console.log(data);
+    console.log(`${data.user}: ${data.mensaje}`);
 })
 
 //Enviar informacion
