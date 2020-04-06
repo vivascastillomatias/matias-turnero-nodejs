@@ -1,12 +1,21 @@
-# Notas:
+## APLICACION DE COLA
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Curso de Fernando Herrera, en Udemy
 
-Recuerden que deben de reconstruir los módulos de node con el comando
+Permite...
 
-```
-npm install
-```
+### Temas de la sección:
+
+1- Aplicar sockets en un proyecto real
+
+2- Aprender sobre clases del ES6
+
+3- Asignar Tickets
+
+4- Leer Tickets
+
+5- Notificaciones 
+
 
 ------------
 
